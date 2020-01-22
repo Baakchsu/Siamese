@@ -5,19 +5,6 @@ Created on Sat Dec  1 12:32:50 2018
 @author: Baakchsu
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 10 18:16:55 2018
-
-@author: Baakchsu
-"""
-
-
-
-
-
-
-
 
 
 import tensorflow as tf
